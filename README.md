@@ -5,6 +5,18 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Sites](https://img.shields.io/badge/Sites%20Powered-27-green)]()
 [![AEO Score](https://img.shields.io/badge/AEO%20Score-100%25%20A%2B-brightgreen)]()
+[![Stars](https://img.shields.io/github/stars/Inari-Kira-Isla/cloudpipe-aeo-toolkit?style=social)](https://github.com/Inari-Kira-Isla/cloudpipe-aeo-toolkit)
+
+### Live Showcase — 27 sites, 100% A+
+![Showcase Preview](assets/showcase-preview.png)
+
+### Template A — Conversion (Warm Gold)
+![Template A](assets/template-a-preview.png)
+
+### Template B — Editorial (Dark Magazine)
+![Template B](assets/template-b-preview.png)
+
+---
 
 ## What is AEO?
 
